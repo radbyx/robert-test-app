@@ -1,6 +1,6 @@
-# Jobrådgivning Kandidat Portal
+# Jobrådgivnings Portal
 
-Dette projekt er en kandidatportal til jobrådgivning, hvor kandidater kan administreres og rådgivere kan hjælpe jobsøgende.  
+Dette projekt er en portal til jobrådgivning, hvor kandidater kan administreres og rådgivere kan hjælpe jobsøgende.  
 Portalen er bygget med moderne frontend-teknologier og bruges som testopgave for nye udviklere på teamet.
 
 ## Stack
