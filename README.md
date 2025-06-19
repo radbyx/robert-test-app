@@ -54,7 +54,7 @@ src/
 - **Filtrér kandidater:**  
   Tilføj mulighed for at filtrere listen på land eller rådgiver.
 
-- **Mulighed for at booke et møde:**
+- **Mulighed for at booke et møde:**  
   Implementér en funktion til at booke møder med kandidater, fx via en kalenderintegration.
 
 ## Mobil-app
