@@ -1,0 +1,33 @@
+{
+  "name": "jobraadgivning-portal",
+  "version": "1.0.0",
+  "description": "A job counseling candidate portal for job seekers.",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.2.2",
+    "vite-plugin-html": "^3.2.2",
+    "vue": "^3.5.8",
+    "vue-router": "^4.4.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.6.2",
+    "vite": "^5.4.6",
+    "vue-tsc": "^2.1.6"
+  },
+  "keywords": [
+    "vue",
+    "job counseling",
+    "candidate portal"
+  ],
+  "author": "AS3",
+  "license": "MIT"
+}
