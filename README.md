@@ -32,7 +32,7 @@ Følg disse instruktioner for at få en kopi af projektet op at køre på din lo
 ### Forudsætninger
 Sørg for, at du har følgende installeret:
 
-- **Node.js** (version 16 eller nyere – helst den nyeste version)
+- **Node.js** (version 22.16.0)
 - **npm** (version 6 eller nyere) **eller** `yarn`
 
 ### Installation
