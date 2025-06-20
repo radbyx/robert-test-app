@@ -54,6 +54,11 @@ Sørg for, at du har følgende installeret:
 4. Åbn [http://localhost:3000](http://localhost:3000) i din browser.
 
 ## Mulige Opgaver
+Vi har samlet nogle opgaver, som du kan vælge imellem.
+Det forventes ikke, at du løser dem alle - vælg i stedet 2-3 opgaver, som du mener bedst viser dine evner.
+
+Du er også meget velkommen til at tænke kreativt og selv forbedre noget i løsningen - fx løfte designet, optimere brugeroplevelsen eller implementere noget smart, du selv ville foreslå i en rigtig arbejdssituation.
+### Her er opgaverne:
 - **Tilføj søgefunktion:**  
   Gør det muligt at søge i kandidatlisten ud fra navn eller e-mail.
 
@@ -61,10 +66,10 @@ Sørg for, at du har følgende installeret:
   Implementér formularer til at oprette, redigere og slette kandidater.
 
 - **Vis detaljeret kandidatprofil:**  
-  Når man klikker på en kandidat, skal flere oplysninger vises på en separat side eller i en modal.
+  Vis flere oplysninger om en kandidat på en separat side eller i en modal, når man klikker på kandidaten.
 
 - **Filtrér kandidater:**  
-  Tilføj mulighed for at filtrere listen på land eller rådgiver.
+  Tilføj mulighed for at filtrere listen, fx på land eller rådgiver.
 
 - **Mulighed for at booke et møde:**  
   Implementér en funktion til at booke møder med kandidater, fx via en kalenderintegration.
