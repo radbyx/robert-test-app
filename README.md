@@ -33,7 +33,7 @@ Følg disse instruktioner for at få en kopi af projektet op at køre på din lo
 Sørg for, at du har følgende installeret:
 
 - **Node.js** (version 22.16.0)
-- **npm** (version 6 eller nyere) **eller** `yarn`
+- **npm** (version 9.8.1 eller nyere) **eller** `yarn`
 
 ### Installation
 1. Gå ind i projektmappen (hvis du ikke allerede er der):
