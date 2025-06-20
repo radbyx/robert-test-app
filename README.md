@@ -26,11 +26,19 @@ src/
   App.vue          // Root-komponent
 ```
 
-## Kom i gang
+## Kom godt i gang
+Følg disse instruktioner for at få en kopi af projektet op at køre på din lokale maskine til udvikling og test - du kan også lave et fork og bruge codespaces.
 
+### Forudsætninger
+Sørg for, at du har følgende installeret:
+
+- **Node.js** (version 16 eller nyere – helst den nyeste version)
+- **npm** (version 6 eller nyere) **eller** `yarn`
+
+### Installation
 1. Gå ind i projektmappen (hvis du ikke allerede er der):
    ```sh
-   cd jobrradgivning-portal
+   cd jobraadgivning-portal
    ```
 
 2. Installer dependencies:
@@ -46,7 +54,6 @@ src/
 4. Åbn [http://localhost:3000](http://localhost:3000) i din browser.
 
 ## Mulige Opgaver
-
 - **Tilføj søgefunktion:**  
   Gør det muligt at søge i kandidatlisten ud fra navn eller e-mail.
 
@@ -68,4 +75,7 @@ Projektet kan også bygges som mobil-app med CapacitorJS til Android og iOS.
 
 ## Kontakt
 
-For spørgsmål, kontakt teamet eller opret et issue.
+For spørgsmål, kontakt AS3.
+
+## Version
+Denne test er sidst opdateret: Juni 2025
