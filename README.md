@@ -48,7 +48,7 @@ src/
 ## Opgaver
 
 - **Tilføj søgefunktion:**  
-  Gør det muligt at filtrere kandidatlisten ud fra navn, e-mail eller land.
+  Gør det muligt at søge i kandidatlisten ud fra navn eller e-mail.
 
 - **Tilføj/rediger/slet kandidat:**  
   Implementér formularer til at oprette, redigere og slette kandidater.
