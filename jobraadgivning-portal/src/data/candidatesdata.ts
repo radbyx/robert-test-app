@@ -1,3 +1,5 @@
+import { Candidate } from "@/types";
+
 export const candidates: Candidate[] = [
   {
     id: 'b1e2c3d4-1111-4a5b-8c9d-1234567890ab',

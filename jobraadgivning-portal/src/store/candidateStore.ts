@@ -1,7 +1,7 @@
 import { defineStore } from 'pinia';
 import { ref, computed } from 'vue';
 import { candidates as initialCandidates } from '../data/candidatesdata';
-import type { Candidate } from '../types/candidate';
+import type { Candidate } from '../types';
 
 export const useCandidateStore = defineStore('candidate', () => {
   const candidates = ref<Candidate[]>([...initialCandidates]);
@@ -10,7 +10,7 @@ export const useCandidateStore = defineStore('candidate', () => {
   const allCandidates = computed(() => candidates.value);
 
   // Eksempel på en mutation/action
-  const addCandidate(candidate: Candidate) => {
+  const addCandidate = (candidate: Candidate): void => {
     candidates.value.push(candidate);
   }
 

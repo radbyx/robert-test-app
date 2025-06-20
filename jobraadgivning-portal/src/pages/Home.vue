@@ -12,7 +12,7 @@
 
 <script lang="ts" setup>
 import { storeToRefs } from 'pinia';
-import { useCandidateStore } from '../store/candidate';
+import { useCandidateStore } from '../store/candidateStore';
 import CandidateCard from '../components/CandidateCard.vue';
 
 const candidateStore = useCandidateStore();
