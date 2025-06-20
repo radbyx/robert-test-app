@@ -28,17 +28,22 @@ src/
 
 ## Kom i gang
 
-1. Installer dependencies:
+1. Gå ind i projektmappen (hvis du ikke allerede er der):
+   ```sh
+   cd jobrradgivning-portal
+   ```
+
+2. Installer dependencies:
    ```sh
    npm install
    ```
 
-2. Start udviklingsserver:
+3. Start udviklingsserver:
    ```sh
    npm run dev
    ```
 
-3. Åbn [http://localhost:3000](http://localhost:3000) i din browser.
+4. Åbn [http://localhost:3000](http://localhost:3000) i din browser.
 
 ## Opgaver
 
