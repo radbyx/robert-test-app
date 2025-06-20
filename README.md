@@ -45,7 +45,7 @@ src/
 
 4. Åbn [http://localhost:3000](http://localhost:3000) i din browser.
 
-## Opgaver
+## Mulige Opgaver
 
 - **Tilføj søgefunktion:**  
   Gør det muligt at søge i kandidatlisten ud fra navn eller e-mail.
