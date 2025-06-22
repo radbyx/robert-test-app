@@ -1,9 +1,9 @@
 <template>
-  <div class="min-h-screen bg-gray-100">
-    <header class="bg-indigo-600 text-white p-4">
+  <div class="min-h-screen bg-gray-100 flex flex-col h-screen">
+    <header class="bg-indigo-600 text-white p-4 ">
       <h1 class="text-2xl font-bold">Jobrådgivnings Portal</h1>
     </header>
-    <main class="p-4">
+    <main class="p-4 mb-auto overflow-y-auto">
       <router-view />
     </main>
     <footer class="bg-gray-800 text-white text-center p-4">

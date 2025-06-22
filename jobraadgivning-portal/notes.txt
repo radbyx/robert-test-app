@@ -1,1 +1,5 @@
 Notes:
+- some functions / tasks
+- some common components
+- vue component hierarchy
+- styling e.g. cards and buttons
